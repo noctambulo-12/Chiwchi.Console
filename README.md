@@ -18,7 +18,7 @@ dotnet add package Chiwchi.Console --version 1.0.0
 dotnet add PROJECT package Chiwchi.Console --version 1.0.0
 ```
 
-## Cli.table()
+## Cli.Table()
 Muestra datos tabulares como una tabla.
 
 #### Código:
@@ -71,7 +71,7 @@ Cli.Log("¡Hola Perú!", "007bff", Color.Black);
 
 ___
 
-## Cli.Success(), Cli.Warning() y Cli.Error(), 
+## Cli.Success(), Cli.Warning() y Cli.Error()
 
  - Cli.Success("message"): Muestra un mensaje de **Éxito** en la consola.
  - Cli.Warning("message"): Muestra un mensaje de **advertencia** en la consola.
