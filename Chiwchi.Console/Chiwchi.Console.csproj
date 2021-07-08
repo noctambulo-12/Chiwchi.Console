@@ -8,7 +8,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageProjectUrl>https://github.com/noctambulo-12/Chiwchi.Console</PackageProjectUrl>
     <Description>Inspirado en el objeto console de los navegadores se ha creado esta libreria para ayudarnos a mostrar información útil en los proyectos de consola.</Description>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
    <RepositoryType>Github</RepositoryType>
   <RepositoryUrl>https://github.com/noctambulo-12/Chiwchi.Console</RepositoryUrl>
@@ -20,7 +20,7 @@
     <None Include="Picture\ChiwchiConsoleIcon.png" Pack="true" Visible="false" PackagePath="" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Pastel" Version="$(PastelPackageVersion)" PrivateAssets="All" />
+    <PackageReference Include="Pastel" Version="$(PastelPackageVersion)" IncludeAssets="All" />
   </ItemGroup>
   <ItemGroup>
     <None Update="nuget.config">
