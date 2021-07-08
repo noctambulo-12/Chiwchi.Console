@@ -1,5 +1,5 @@
 # Chiwchi.Console
-Inspirado en el objeto *console* de los navegadores se ha creado esta libreria para ayudarnos a mostrar información útil en los proyectos de consola.
+Inspirado en el objeto *console* de los navegadores se ha creado esta libreria para ayudarnos a mostrar información de una forma diferente en los proyectos de consola.
 
 ## Instalar
 
