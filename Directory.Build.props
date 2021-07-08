@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <MicrosoftSourceLinkGitHubPackageVersion>1.0.0-beta2-19367-01</MicrosoftSourceLinkGitHubPackageVersion>
+    <PastelPackageVersion>2.1.0</PastelPackageVersion>
+  </PropertyGroup>
+</Project>

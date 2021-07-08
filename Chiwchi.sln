@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chiwchi.Console", "Chiwchi.Console\Chiwchi.Console.csproj", "{E9E2D4A4-BF06-4B69-A1B2-9146C5006293}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{30EE3D41-6448-44E0-AFB2-3A033E988931}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chiwchi.TestConsole", "Chiwchi.TestConsole\Chiwchi.TestConsole.csproj", "{4FC1DA56-000E-44A4-A1AD-E62CA1C6709A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9E2D4A4-BF06-4B69-A1B2-9146C5006293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E2D4A4-BF06-4B69-A1B2-9146C5006293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E2D4A4-BF06-4B69-A1B2-9146C5006293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E2D4A4-BF06-4B69-A1B2-9146C5006293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC1DA56-000E-44A4-A1AD-E62CA1C6709A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC1DA56-000E-44A4-A1AD-E62CA1C6709A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC1DA56-000E-44A4-A1AD-E62CA1C6709A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC1DA56-000E-44A4-A1AD-E62CA1C6709A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A1E8E9-B782-47DB-9116-FC0E38B9165D}
+	EndGlobalSection
+EndGlobal
