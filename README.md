@@ -1,6 +1,22 @@
 # Chiwchi.Console
 Inspirado en el objeto *console* de los navegadores se ha creado esta libreria para ayudarnos a mostrar información útil en los proyectos de consola.
 
+## Instalar
+
+#### Nuget
+```Console
+Install-Package Chiwchi.Console -Version 1.0.0
+```
+
+#### .NET CLI 
+```Console
+dotnet add package Chiwchi.Console --version 1.0.0
+```
+
+#### Github 
+```Console
+dotnet add PROJECT package Chiwchi.Console --version 1.0.0
+```
 
 ## Cli.table()
 Muestra datos tabulares como una tabla.
@@ -112,3 +128,11 @@ Información de las propiedades utilizadas:
  
 #### Resultado:
 <img src="https://github.com/noctambulo-12/Chiwchi.Console/raw/main/Picture/ConsoleSpinner_full.gif"> 
+
+
+## Dependencia
+
+#### Pastel
+```Console
+Install-Package Pastel -Version 2.1.0
+```
